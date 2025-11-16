@@ -28,6 +28,3 @@ Entity Framework, Repository ve Unit of Work desenleriyle yazılmıştır.
 - WinForms
 - Entity Framework
 - MSSQL
-
-![StockManager Screenshot](https://github.com/Kaganucar/StockManager-WinForms/blob/main/FormProduct.png)
-![Category Form](https://github.com/Kaganucar/StockManager-WinForms/blob/main/FormCategory.png)
